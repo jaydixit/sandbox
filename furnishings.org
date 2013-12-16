@@ -1,4 +1,4 @@
-* furnishings
+* retreat furnishings
 
 #+HTML: <BR>
 |-------------+------|
@@ -39,6 +39,12 @@ link: [[@>$3%3Dvsum(@2..@-1)][tight rope office chair in office furniture | CB2]
 http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0133/img74c.jpg
 
 Mini refrigerator TBD: $200
+
+* common area
+Ikea karlstad sofa X2: $2000
+http://www.ikea.com/us/en/images/products/karlstad-sofa__0111283_PE261985_S4.JPG
+http://www.ikea.com/us/en/catalog/products/S69876003/
+
 
 * export settings                                          :ARCHIVE:noexport:
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/gmail.css' />
