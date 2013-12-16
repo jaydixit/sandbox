@@ -2,16 +2,11 @@
 
 Ikea Malm bed frame high 200
 http://www.ikea.com/us/en/images/products/malm-bed-frame-high__0173782_PE328443_S4.JPG
-link: [[http://www.ikea.com/us/en/images/products/malm-bed-frame-high__0173782_PE328443_S4.JPG][MALM Bed frame, high - black-brown, Queen - IKEA]]
+link: [[http://www.ikea.com/us/en/catalog/products/S39849855/#/S49874774][MALM Bed frame, high - black-brown, Queen - IKEA]]
 
 Ikea Hemnes 3-drawer dresser 150
 http://www.ikea.com/us/en/images/products/hemnes--drawer-chest__0152705_PE311016_S4.JPG
-
-
-link:
-
-
-
+link: http://www.ikea.com/us/en/catalog/products/00242631/
 
 Ikea latex mattress or West Elm Sealy mattress 500
 http://www.ikea.com/ms/media/seorange/201341/foam_latex_mattresses.jpg
@@ -23,11 +18,6 @@ http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0133/img74c.jpg
 Chair TBD 100
 
 Mini refrigerator TBD 200
-
-http://i.imgur.com/yoxT1VB.jpg
-
-: blah
-
 
 * export settings                                          :ARCHIVE:noexport:
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/gmail.css' />
