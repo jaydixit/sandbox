@@ -1,29 +1,48 @@
 * furnishings
 
+#+HTML: <BR>
+|-------------+------|
+| bed frame   |  200 |
+| mattress    |  500 |
+| dresser     |  150 |
+| desk        |  400 |
+| chair       |  200 |
+| bookcases   |  200 |
+| fridge      |  200 |
+| art / books |  250 |
+| other       |  250 |
+|-------------+------|
+| total       | 2350 |
+|-------------+------|
+
 Ikea Malm bed frame high: $200
 http://www.ikea.com/us/en/images/products/malm-bed-frame-high__0173782_PE328443_S4.JPG
 link: [[http://www.ikea.com/us/en/catalog/products/S39849855/#/S49874774][MALM Bed frame, high - black-brown, Queen - IKEA]]
-
-Ikea Hemnes 3-drawer dresser: $150
-http://www.ikea.com/us/en/images/products/hemnes--drawer-chest__0152705_PE311016_S4.JPG
-link: http://www.ikea.com/us/en/catalog/products/00242631/
 
 Ikea latex mattress or West Elm Sealy mattress: $500
 http://www.ikea.com/ms/media/seorange/201341/foam_latex_mattresses.jpg
 link: [[http://www.ikea.com/us/en/catalog/categories/departments/bedroom/24823/][Memory foam and Latex mattresses]]
 
+Ikea Hemnes 3-drawer dresser: $150
+http://www.ikea.com/us/en/images/products/hemnes--drawer-chest__0152705_PE311016_S4.JPG
+link: http://www.ikea.com/us/en/catalog/products/00242631/
+
+West Elm desk TBD: $400
+http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0123/img95o.jpg
+link: [[http://www.westelm.com/products/emmerson-desk-h204/?pkey%3Dcoffice-desks&cm_src%3Doffice-desks||NoFacet-_-NoFacet-_--_-][Emmerson Desk | west elm]]
+
+CB2 Tight Rope Office Chair: $200
+http://2i.c-b.co/is/image/CB2/TightRopeOfficeChr3QF13/&$web_zoom$&/1308302041/tight-rope-office-chair.jpg
+link: [[@>$3%3Dvsum(@2..@-1)][tight rope office chair in office furniture | CB2]]
+
 1 West Elm Bookcase or 2 Ikea bookcases: $200
 http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0133/img74c.jpg
-
-Chair TBD: $100
 
 Mini refrigerator TBD: $200
 
 * export settings                                          :ARCHIVE:noexport:
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/gmail.css' />
-#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/gmail.css' />
-#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/sexy-ordered-lists-module.css' />
-#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/org-hierarchy.css' />
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/sexy-tables.css' />
 #+OPTIONS:   H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+HTML_HEAD: <A HREF="http://jaydixit.com" STYLE="color:navy; position:absolute; left:2px; top:0;">☂</A>
 #+TITLE: Signal Flare Furnishings
