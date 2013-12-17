@@ -45,7 +45,7 @@ Mini refrigerator TBD: $200
 
 |------------------+------|
 | sofas            | 2000 |
-| coffee tables    | 1000 |
+| tables           | 1000 |
 | chairs           |  500 |
 | HD projector     |  800 |
 | projector screen |  200 |
@@ -56,7 +56,6 @@ Mini refrigerator TBD: $200
 |------------------+------|
 | total            | 5550 |
 |------------------+------|
-
 
 Ikea karlstad sofa X2: $2000
 http://www.ikea.com/us/en/images/products/karlstad-sofa__0111283_PE261985_S4.JPG
@@ -73,12 +72,11 @@ http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0239/img19o.jpg
 
 
 
-
 * export settings                                          :ARCHIVE:noexport:
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/gmail.css' />
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/gmail.css' />
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/sexy-tables.css' />
 #+OPTIONS:   H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+HTML_HEAD: <A HREF="http://jaydixit.com" STYLE="color:navy; position:absolute; left:2px; top:0;">☂</A>
+#+HTML_HEAD: <DIV style='umbrella'><A HREF='http://jaydixit.com' style='color:navy'>☂</A></DIV>
 #+TITLE: Signal Flare Furnishings
 
-...
