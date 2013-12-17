@@ -74,7 +74,6 @@ http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0239/img19o.jpg
 
 * export settings                                          :ARCHIVE:noexport:
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/gmail.css' />
-#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/gmail.css' />
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/sexy-tables.css' />
 #+OPTIONS:   H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+HTML_HEAD: <DIV style='umbrella'><A HREF='http://jaydixit.com' style='color:navy'>☂</A></DIV>
