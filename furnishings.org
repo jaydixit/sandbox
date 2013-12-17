@@ -46,6 +46,7 @@ http://www.ikea.com/us/en/images/products/karlstad-sofa__0111283_PE261985_S4.JPG
 http://www.ikea.com/us/en/catalog/products/S69876003/
 
 
+
 * export settings                                          :ARCHIVE:noexport:
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/gmail.css' />
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/sexy-tables.css' />
