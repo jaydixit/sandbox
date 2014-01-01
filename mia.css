@@ -176,12 +176,19 @@ text-rendering: optimizeLegibility;
 
 .sub1
 {
-    font-family: 'Adobe Premier Pro Subhead', Monaco;
-
+    font-family: 'Adobe Garamond Premier Pro Subhead', Monaco;
 }
 
-.medium
-
+.sub1 strong
 {
-   font-family: 'Adobe Premier Pro Medium', Monaco;
- }
+font-weight:normal;
+font-style:normal;
+    font-family: 'Adobe Garamond Premier Pro Subhead Bold', Monaco;
+}
+
+.sub1 em
+{
+font-weight:normal;
+font-style:normal;
+font-family: 'Adobe Garamond Premier Pro Subhead Italic', Monaco;
+}
