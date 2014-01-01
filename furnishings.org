@@ -15,30 +15,30 @@
 | total       | 2350 |
 |-------------+------|
 
-Ikea Malm bed frame high: $200
+** Ikea Malm bed frame high: $200
 http://www.ikea.com/us/en/images/products/malm-bed-frame-high__0173782_PE328443_S4.JPG
 link: [[http://www.ikea.com/us/en/catalog/products/S39849855/#/S49874774][MALM Bed frame, high - black-brown, Queen - IKEA]]
 
-Ikea latex mattress or West Elm Sealy mattress: $500
+** Ikea latex mattress or West Elm Sealy mattress: $500
 http://www.ikea.com/ms/media/seorange/201341/foam_latex_mattresses.jpg
 link: [[http://www.ikea.com/us/en/catalog/categories/departments/bedroom/24823/][Memory foam and Latex mattresses]]
 
-Ikea Hemnes 3-drawer dresser: $150
+** Ikea Hemnes 3-drawer dresser: $150
 http://www.ikea.com/us/en/images/products/hemnes--drawer-chest__0152705_PE311016_S4.JPG
 link: http://www.ikea.com/us/en/catalog/products/00242631/
 
-West Elm desk TBD: $400
+** West Elm desk TBD: $400
 http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0123/img95o.jpg
 link: [[http://www.westelm.com/products/emmerson-desk-h204/?pkey%3Dcoffice-desks&cm_src%3Doffice-desks||NoFacet-_-NoFacet-_--_-][Emmerson Desk | west elm]]
 
-CB2 Tight Rope Office Chair: $200
+** CB2 Tight Rope Office Chair: $200
 http://2i.c-b.co/is/image/CB2/TightRopeOfficeChr3QF13/&$web_zoom$&/1308302041/tight-rope-office-chair.jpg
 link: [[@>$3%3Dvsum(@2..@-1)][tight rope office chair in office furniture | CB2]]
 
-1 West Elm Bookcase or 2 Ikea bookcases: $200
+** 1 West Elm Bookcase or 2 Ikea bookcases: $200
 http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0133/img74c.jpg
 
-Mini refrigerator TBD: $200
+** Mini refrigerator TBD: $200
 
 * common area
 #+HTML: <BR>
@@ -57,24 +57,39 @@ Mini refrigerator TBD: $200
 | total            | 5550 |
 |------------------+------|
 
-Ikea karlstad sofa X2: $2000
+** Ikea karlstad sofa X2: $2000
 http://www.ikea.com/us/en/images/products/karlstad-sofa__0111283_PE261985_S4.JPG
 http://www.ikea.com/us/en/catalog/products/S69876003/
 
-HD projector
+** HD projector
 http://ecx.images-amazon.com/images/I/41KoIQW2MBL._SY300_.jpg
 [[http://www.amazon.com/ViewSonic-PJD7820HD-3D-Ready-Projector-Composite/dp/B00BBM0664/ref%3Dsr_1_4?ie%3DUTF8&qid%3D1387243990&sr%3D8-4&keywords%3Dhd%2Bprojector][Amazon.com: ViewSonic PJD7820HD Full HD 1080p 3D-Ready Projector with HDMI, Dual VGA, Composite and S-video: Electronics]]
 
-Coffee tables
+** Coffee tables
 http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0239/img19o.jpg
 [[http://ab.weimgs.com/weimgs/ab/images/wcm/products/201335/0239/img19o.jpg][Emmerson Coffee Table | west elm]]
-
-
-
 * export settings                                          :ARCHIVE:noexport:
+:PROPERTIES:
+:ID:       o2b:0A9A056C-E339-4E76-8CFD-A03783DF0410
+:END:
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/gmail.css' />
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/gmail.css' />
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/custom-css/sexy-tables.css' />
 #+OPTIONS:   H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+HTML_HEAD: <DIV style='umbrella'><A HREF='http://jaydixit.com' style='color:navy'>☂</A></DIV>
 #+TITLE: Signal Flare Furnishings
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:nil reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: default
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_POSTAMBLE: <p> @jaydixit </p>
+#+REVEAL_ROOT: http://jaydixit.github.io/slides/reveal.js-master
+#+REVEAL_EXTRA_CSS: /Users/jay/Dropbox/web-design/custom-css/revealjs-jay.css
