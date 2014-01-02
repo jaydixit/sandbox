@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Adobe Garamond Premier Pro';
+    src: url('http://dixit.ca/fonts/garamondpremrpro-webfont.eot');
+    src: url('http://dixit.ca/fonts/garamondpremrpro-webfont.eot?#iefix') format('embedded-opentype'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-webfont.woff') format('woff'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-webfont.ttf') format('truetype'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-webfont.svg#garamond_premr_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adobe Garamond Premier Pro Bold';
+    src: url('http://dixit.ca/fonts/garamondpremrpro-bd-webfont.eot');
+    src: url('http://dixit.ca/fonts/garamondpremrpro-bd-webfont.eot?#iefix') format('embedded-opentype'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-bd-webfont.woff') format('woff'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-bd-webfont.ttf') format('truetype'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-bd-webfont.svg#garamond_premr_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adobe Garamond Premier Pro Italic';
+    src: url('http://dixit.ca/fonts/garamondpremrpro-it-webfont.eot');
+    src: url('http://dixit.ca/fonts/garamondpremrpro-it-webfont.eot?#iefix') format('embedded-opentype'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-it-webfont.woff') format('woff'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-it-webfont.ttf') format('truetype'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-it-webfont.svg#garamond_premr_proitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adobe Garamond Premier Pro Bold Italic';
+    src: url('http://dixit.ca/fonts/garamondpremrpro-bdit-webfont.eot');
+    src: url('http://dixit.ca/fonts/garamondpremrpro-bdit-webfont.eot?#iefix') format('embedded-opentype'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-bdit-webfont.woff') format('woff'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-bdit-webfont.ttf') format('truetype'),
+	 url('http://dixit.ca/fonts/garamondpremrpro-bdit-webfont.svg#garamond_premr_probold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p, ul, ol, li
+{
+    font-size:28px;
+    text-rendering: optimizeLegibility;
+    font-family: 'Adobe Garamond Premier Pro', Georgia, serif;
+
+strong
+{
+    font-weight:normal;
+    font-family: 'Adobe Garamond Premier Pro Bold', Georgia, serif;
+}
+
+em
+{
+    font-style:normal;
+    font-family: 'Adobe Garamond Premier Pro Italic', Georgia, serif;
+}
+
+
+strong em, p strong em
+{
+    font-style:normal;
+    font-family: 'Adobe Garamond Premier Pro Bold Italic', Georgia, serif;
+}
