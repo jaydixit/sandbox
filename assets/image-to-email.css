@@ -791,13 +791,6 @@ figure, img
 font-style:italic;
 }
 
-html 
-{width:72%;
-margin-left:auto;
-margin-right:auto;
-
-}
-
 span.todo {
     text-shadow: none;
     padding: 4px;
