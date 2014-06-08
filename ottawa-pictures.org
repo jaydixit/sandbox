@@ -1,0 +1,20 @@
+* Ottawa photos
+http://packedsuitcase.com/wp-content/uploads/2013/06/Yoga-2.jpg
+http://kandkadventures.com/wp-content/uploads/2012/10/IMG_49231.jpg
+http://ottawarickshaws.ca/wp-content/uploads/2013/08/Fotolia_33275010_Subscription_L.jpg
+http://confessionsofaballerunner.files.wordpress.com/2012/03/bank-sreet-bridge_summer3.jpg
+http://ottawajantine.files.wordpress.com/2011/04/cisco_ottawa_bluesfest_2010_crowd_evening_med_039-credit-ottawa-tourism.jpg
+http://suffonsifisms.files.wordpress.com/2010/05/original-060.jpg
+
+http://threadslifestyle.files.wordpress.com/2012/01/canal-skate.jpg
+
+http://www.janeswalkottawa.ca/system/images/BAhbBlsHOgZmSSIxMjAxMy8wNC8yMi8wNC8zMy8zOS84ODcvRHVuZG9uYWxkUGFya0pQRy5KUEcGOgZFVA/DundonaldParkJPG.JPG
+
+
+* export settings                                          :ARCHIVE:noexport:
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://dixit.ca/css/gmail.css' />
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='/Users/jay/Dropbox/web-design/custom-css/gmail.css' />
+#+OPTIONS:   H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+HTML_HEAD: <DIV class='umbrella'><A HREF='http://jaydixit.com' style='color:navy'>☂</A></DIV>
+#+CATEGORY:
+#+TITLE: Ottawa Photos

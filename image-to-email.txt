@@ -1,0 +1,41 @@
+* Ottawa photos
+http://packedsuitcase.com/wp-content/uploads/2013/06/Yoga-2.jpg
+http://kandkadventures.com/wp-content/uploads/2012/10/IMG_49231.jpg
+http://ottawarickshaws.ca/wp-content/uploads/2013/08/Fotolia_33275010_Subscription_L.jpg
+http://confessionsofaballerunner.files.wordpress.com/2012/03/bank-sreet-bridge_summer3.jpg
+http://ottawajantine.files.wordpress.com/2011/04/cisco_ottawa_bluesfest_2010_crowd_evening_med_039-credit-ottawa-tourism.jpg
+http://suffonsifisms.files.wordpress.com/2010/05/original-060.jpg
+
+http://threadslifestyle.files.wordpress.com/2012/01/canal-skate.jpg
+
+http://www.janeswalkottawa.ca/system/images/BAhbBlsHOgZmSSIxMjAxMy8wNC8yMi8wNC8zMy8zOS84ODcvRHVuZG9uYWxkUGFya0pQRy5KUEcGOgZFVA/DundonaldParkJPG.JPG
+
+
+#+BEGIN_HTML
+<script type="text/javascript" src="../production/org-html-slideshow.js"></script>
+<script type="text/javascript" src="../production/convert-image-links-to-images.js"></script>
+<script type="text/javascript" src="http://api.html5media.info/1.1.6/html5media.min.js"></script>
+#+END_HTML
+
+* cyberpunk dark city
+http://static.giantbomb.com/uploads/original/11/112064/2522454-cyberpunk-other.jpg
+http://s.cghub.com/files/Image/758001-759000/758658/430_max.jpg
+http://img.mota.ru/upload/wallpapers/source/2012/09/30/18/02/32715/dsxiPtxp8H.jpg
+http://lh5.ggpht.com/--MHA-xT-XBg/UQwOlAWE_TI/AAAAAAAAALY/CPyccajLdPM/s9000/cyberpunk_city.jpg
+http://www.next-genrpg.com/wp-content/uploads/2013/09/Cyberpunk-2077-screenshot-ahitagni-dot-com.jpg
+http://cdn01.wallconvert.com/_media/wallpapers_1280x800/1/2/cyberpunk-city-street-14731.jpg
+http://static2.fjcdn.com/comments/my+wallpaper..hell+yea+cyberpunk+_1d4a90b96ef6ded606ba5bf7016d6310.jpg
+
+
+
+* random other
+
+http://img2u.info/ckgni/i/g1402db85.jpg
+
+http://media-cache-ak0.pinimg.com/736x/65/05/70/6505708d363606590519dd4dd454acf0.jpg
+
+http://media-cache-ec0.pinimg.com/736x/fe/87/d0/fe87d067db5e418af583d49a42697abd.jpg
+
+http://media-cache-ak0.pinimg.com/736x/aa/b7/40/aab740293b650c8803dbb8ea4825019d.jpg
+
+http://store30watt.s3.amazonaws.com/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/f/u/fuckshitoclock-magnet-1000.png
