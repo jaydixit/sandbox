@@ -452,6 +452,7 @@ h1.title
 	text-shadow:none;
 	margin-top:25px;
 margin-left:-40px;
+display:none;
 }
 
 h1
@@ -773,7 +774,7 @@ table
 margin-bottom:25px;}
 
 html body p  {
-    padding-bottom: 1em;
+
 }
 
 
