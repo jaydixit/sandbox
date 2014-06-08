@@ -12,7 +12,7 @@ http://www.janeswalkottawa.ca/system/images/BAhbBlsHOgZmSSIxMjAxMy8wNC8yMi8wNC8z
 
 
 * export settings                                          :ARCHIVE:noexport:
-#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/assets/image-to-email.css />
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='http://jaydixit.github.io/sandbox/assets/image-to-email.css />
 #+OPTIONS:   H:6 num:nil toc:nil :nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+HTML_HEAD: <DIV class='umbrella'><A HREF='http://jaydixit.com' style='color:navy'>☂</A></DIV>
 #+CATEGORY:
